@@ -1,6 +1,6 @@
 {
   "name": "@suhailakhtar/elevate-bin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This tool allows you to start a program with elevated privileges from the command line.",
   "repository": {
     "type": "git",
